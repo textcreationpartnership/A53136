@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>News from Guild-Hall: or An ansvver to the addresse. Answered, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53136</idno>
+            <idno type="STC">Wing N961A</idno>
+            <idno type="STC">ESTC R236104</idno>
+            <idno type="EEBO-CITATION">99825977</idno>
+            <idno type="PROQUEST">99825977</idno>
+            <idno type="VID">30369</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53136)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30369)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2192:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>News from Guild-Hall: or An ansvver to the addresse. Answered, &amp;c.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Concerning the election of Slingsby Bethel and Henry Cornish as sheriffs of London.</note>
+                  <note>A reply to: Phil. Anglus Trueman.  The Protestant antidote.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>MH Copy has annotation: agt Bethell &amp; Cornish being chosen sherifs. Printed. 28. July. 1680</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Phil. Anglus Trueman. --  Protestant antidote --  Early works to 1800.</term>
+               <term>Bethel, Slingsby, 1617-1697.</term>
+               <term>Cornish, Henry, d. 1685.</term>
+               <term>Sheriffs --  England --  London --  Early works to 1800.</term>
+               <term>Church and state --  England --  Early works to 1800.</term>
+               <term>Political satire, English --  Early works to 1800.</term>
+               <term>London (England) --  Politics and government --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="response">
+            <pb n="1" facs="tcp:30369:1" rendition="simple:additions"/>
+            <head>
+               <hi>News from Guild-Hall:</hi> OR AN ANSWER TO THE ADDRESSE Anſwered, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THough I neither know the Author of the <hi>Addreſs</hi> nor your Wor<g ref="char:EOLhyphen"/>ſhip, I hope a third man may make bold to read you both, and obſerve you if he pleaſe.</p>
+            <p>As for his Undertakings, I fear the Truth you find in it hath netled your fancy, and having touched you in a ſore place hath made you Kick. He may give you the promiſed accompt of his perſonal particulars himſelf, if he think you worthy of it, and if his meaning be <hi>Popiſh,</hi> as you ſay, (for it is no news now for one to ſay what he would have others think) <hi>Let him and his gravity go down in ſorrow to his Grave.</hi>
+            </p>
+            <p>For your part, all your Railery I ſhall paſs over with this, that you are an excellent proficient in the Art of Scolding; and have ſhewed ſo much of the impoſing confidence lately practiſed at <hi>Guild-hall,</hi> that I paſs you either for a Leader or Teacher of the furious drivers there; Yet I com<g ref="char:EOLhyphen"/>mend your ingenuity above the Drolls of <hi>Jack-Pudding,</hi> for your ſcraps of punning, for the wit in them, ſeem a Collection from better <hi>Farce</hi> and <hi>Comedy.</hi>
+            </p>
+            <p>After you have ſpent good part of your <hi>Page</hi> in Balderdaſh, you dandle an <hi>Irony</hi> into a Paradox, I ſuppoſe for ſport only; but I ſhall not vindicate nor reprove the Author for charging folly upon the Teſtifiers of the Plot ſince their diſcovery; Though I hope you will give me leave to pray to God the Author may be miſtaken.</p>
+            <pb n="2" facs="tcp:30369:2"/>
+            <p>Your next Paragraph is ſo plain a miſapplication, that you deſerve to be hiſs't at by the School-boys. Can you forge <hi>Popery</hi> no better than ſo? Muſt the Effigies of Chriſt here needs be Idolatry? You forget that <hi>God made man after his own Image;</hi> was this for the ſhape of his face? And it ſeems you are to learn that Humility, Charity, forgiveneſs of Injuries, Glorifying God, <hi>&amp;c.</hi> are the Image of Chriſt. But it is no news to ſee Texts ſtrained to particular humors; you would ſhew your ſelf ſome body, by nibbling at the Writings of Fathers, but at the ſame time your Non-ſenſe expoſeth your very bottom.</p>
+            <p>At laſt you come to the matter, with your tumults undetermined by whom cauſed, and by this deſtroy the Reputation of your whole Cauſe; I can ſcarce doubt but that you were at the Hall becauſe your ſtile ſpeaks you to be one of the Inſinuaters where you had nothing to do, to help run down the more modeſt, but whether you were or not you muſt needs be better informed; and ſince you mince the matter I will repeat it to you. Is it not moſt plain that before now there hath been indeavours for Election of perſons diſaffected to the Government, and particularly the laſt year by ſurprize, and giving private Intelligence to particular friends of the Cauſe, to be ſure to be there, to carry it of a ſuddain; And if the diſcretion of the Magiſtrate, had not let it take wind by deferring, in all probability it had been accompliſhed, when at laſt your Friends were many of them forced to diſown it with ſhame, but why? Becauſe it was not carried. Is it not as plain that the ſame party did before this Election inſinuate to all their Friends, and oblige them to the utmoſt, for the Election of the only perſons they reſolved on, and accordingly (though the firſt Election of them were void for non-quali<g ref="char:EOLhyphen"/>fication) yet, at it again, for the ſame, and made it their buſineſs by private correſpondence to flock to the Hall firſt, to take up the forwardeſt Room; And by violent clamour and diſcourſe to keep out and diſcourage any that ſhould oppoſe them, that none might be heard but themſelves? Was there ever ſeen ſuch rudeneſs, hollowing, and ſhouting, amongſt perſons under a Civil Government? Durſt any man offer for any others (though never ſo Worthy) but he was preſently condemned, flouted and abuſed for a <hi>Papiſt?</hi> As if moſt noiſe had moſt right. Try (if you would do your Cauſe good) to find a Preſident, when the Magiſtrates of <hi>London</hi> were ever ſo actually affronted, vilefied and abuſed to their faces, to the grief of all that think they owe Magiſtrates any reſpect, and who were they that did all this? Every modeſt man that was there I am ſure knows very well, and might have wiſhed himſelf elſewhere; If you think our eyes are not to be believed, apply your ſelf to the Poll-Book, where on your ſide no doubt you will find ſome well meaning men, but withal, the whole Tribe of <hi>Presbyterians, Anabaptiſts,</hi> &amp;c. form <hi>Dan</hi> to <hi>Berſheba,</hi> down to the poor <hi>Quaker</hi> incluſive; Why was all the noiſe for a Poll preſently? But becauſe your Friends knew they had ſupplanted, run down, and ſcared away a great many honeſt men, that could not diſpence with the clamour, that a great many other expected it and avoided it, and you were then ſure to carry it. I pray what becomes of
+<pb n="3" facs="tcp:30369:2"/>the Liberty of the Subject we talk ſo much of, if noiſe and violence muſt prevail?</p>
+            <p>You would have done the City a great kindneſs in preſcribing a better preſervative of our Liberties, than a deliberate Poll, and many wiſer men than you or I, fear that days work will cauſe the trouble of more Polls than your Poll and mine are worth; for ſince probably the like violence will be at other times, who would not rather procure a Poll to be demanded that they may Poll at leiſure, than contend in the Hall amongſt ſuch uncivil company.</p>
+            <p>You ſpeak of a fair Election by the Body of the City, this is a poor old inſinuation, but how ſhall you or I know the mind of the Body of the City but by every mans free Vote without diſturbance; And why might not the Sheriffs, make uſe of their priviledg to adjourn the Poll, that every man might do ſo? In all likelyhood the ſame perſons will carry it nevertheleſs, (and for ought I know worthy enough, and others might be the like) But you are in great part beholding to your falſe re<g ref="char:EOLhyphen"/>ports of the foul play you had in the Hall, the loſs of Priviledges, and I know not what, but you know very well that not a man of you, could aſſign to any indifferent perſon, in what either was, And (though that ſtrook a great ſtroke in the buſineſs at firſt,) yet you know, as people were undeceived, the Cauſe apparently flagg'd.</p>
+            <p>As for the qualifications of the Gentlemen you would have Elected; you do not ſay they were qualified at firſt, though by Law they ought to have been ſo, and if I ſhould at a particular occaſion comply with a Law I had been willing to neglect, or be pardoned crimes by Act of Parlia<g ref="char:EOLhyphen"/>ment though I were not <hi>reprobated</hi> by Law as you ſay; you would nevertheleſs know me, and I believe think me fit to be truſted little the further, not to give you more natural Examples: I think therefore you had better have left your Act of Parliament out, and your Queries there<g ref="char:EOLhyphen"/>upon, unleſs you had given ſatisfaction of the free and liberal conformity of your Friends to the Laws they and we are ſo much benefited by; And how it comes to paſs, that all the <hi>Sectaries</hi> that make uſe of and Idolize ſo much Law as they have occaſion for, and every day pick holes in the reſt, are ſo unanimous for theſe and no others.</p>
+            <p>You would patronize the Deſign for Election of thoſe Gentlemen, under the Church of <hi>England,</hi> but I wonder you are not aſhamed to aſſert ſo falſe a thing. You would have us believe you a Member thereof, when the drift of your writing plainly looks another way; I believe indeed upon a fair Election, thoſe of the Church would have had no more to ſay, but is there any thing more obvious than that thoſe who were guilty of that zealous diſturbance, were not ſo, ſure you think a Gown makes a man unknown, is it not plain that all Diſſenters are the complainers that it paſſed not at firſt? Do we not find it ſo every hour, and the contrary on the other ſide; Find me one perſon if you can that hath the leaſt hand in, or is glad of, the baſe Pamphleting and throwing dirt at the Reverend Dr. <hi>Stillingfleet,</hi> Dr. <hi>Tillotſon</hi> (whoſe Books none of you all are worthy to carry) but that he is of your ſide, as to the Election: And ſurely none
+<pb n="4" facs="tcp:30369:3"/>that wiſh well to the Church, can without grief ſee thoſe two Pillars thereof, that have been and are ſo Famous through all <hi>Europe</hi> for their oppoſing <hi>Popery,</hi> by their incomparable Preaching and Writing, inſomuch that for want of Argument the <hi>Papiſts</hi> have been ready to uſe the Ponyard upon their Perſons, expoſed and ſquib'd at as they are, and rather than a hole ſhall not be found in their Coats, with ſharp nailes to claw them in hopes to tear one; but all will not do, You only teaze your own Talons.</p>
+            <p>For your laſt Paragraph, if I could at firſt word believe you, I could ſhake hands and be friends with you, ſince you ſo haſtily wiſh confuſion to the Deſigners of <hi>Popery</hi> or a <hi>Common-wealth;</hi> I wiſh as heartily the like, and that I could believe you, but I wiſh likewiſe, that ſome better ſatis<g ref="char:EOLhyphen"/>faction were given by you and the reſt of your Friends, who pretend ſo much the Kingdoms good, that no ſuch thing is aimed at; <hi>Popery</hi> makes all the Noiſe, and all is <hi>Popery</hi> forſooth that is not with you, but in your Books or diſcourſe by your good wills, not a word of a <hi>Common-wealth.</hi> When I find your Writers and Teachers aſſert Monarchy to the purpoſe, and indeavour as much to Write and Preach the people out of conceipt with a <hi>Common-wealth,</hi> as you do to fill their heads with fears and ill thoughts of all proceedings by thoſe above you and I, then we and many others, no doubt, ſhall be happy in a much nearer Unity and Reconcile<g ref="char:EOLhyphen"/>ment. In the mean time you ſtand ſeverely ſuſpected, knowing you are ſo, and not indeavouring to vindicate your ſelves.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
